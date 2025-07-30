@@ -1,0 +1,13 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "프론트엔드 개발자",
+      "department": "engineering",
+      "location": "seoul",
+      "position": "frontend",
+      "employmentType": "full_time",
+      "skills": ["React", "TypeScript"]
+    }
+  ]
+}
